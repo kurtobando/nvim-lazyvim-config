@@ -5,3 +5,4 @@
 vim.opt.relativenumber = false
 vim.opt.number = false
 vim.opt.numberwidth = 16
+vim.opt.guifont = "SFMono"
