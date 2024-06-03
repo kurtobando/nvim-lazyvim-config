@@ -3,5 +3,5 @@
 -- Add any additional options here
 
 vim.opt.relativenumber = false
-vim.opt.number = false
-vim.opt.numberwidth = 16
+vim.opt.number = true
+vim.opt.numberwidth = 4
